@@ -4,6 +4,7 @@
 ![Screenshot-Failed](https://github.com/Tibinsunny/movie-app-react/blob/master/screenshot/screen.PNG)  
 
 📚🍄 To-Do 📚🍄    
-- [] Add watch Later    
-- [] Local storage  
+- [x] Implement Watch Later   
+- [ ] Add Local Storage Data Saving   
+- [ ] Remove From WatchList
 
